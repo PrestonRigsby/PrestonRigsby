@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrestonRigsby
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and Unity.
+- 🌱 I’m currently working on projects in Python and Unity.
 - 🎨 I'm also really bad at art.
 - 📙 You can view my projects on GitHub or my website. https://prestons.games/
