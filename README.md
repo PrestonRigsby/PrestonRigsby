@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PrestonRigsby
-- 🌱 I’m currently working on projects in Python and Unity.
+- 🌱 I’m currently working on projects in Python, Godot, and C/C++.
 - 🎨 I'm also really bad at art.
