@@ -1,3 +1,14 @@
-- 👋 Hi, I’m @PrestonRigsby
-- 🌱 I’m currently working on projects in Python, Godot, and C/C++.
-- 🎨 I'm also really bad at art.
+# Hello, I am Preston.
+
+> ## Languages:
+> Python, C++, C, Lua, GDScript (Godot), C#, HTML, CSS, JavaScript
+
+> ## Frameworks & Libraries:
+> LÖVE, Pygame, Django
+
+> ## Game Engines:
+> Godot, Unity
+
+> ## My Links:
+> https://prestonrigsby.itch.io/ <br>
+> https://stackoverflow.com/users/20083729/preston <br>
