@@ -1,4 +1,4 @@
-# Hello, I am Preston.
+# Hello, I am Preston. I am an insprired hobby game dev.
 
 > ## Languages:
 > Python, C++, C, Lua, GDScript (Godot), C#, HTML, CSS, JavaScript
