@@ -4,7 +4,7 @@
 > Python, C++, C, Lua, GDScript (Godot), C#, HTML, CSS, JavaScript
 
 > ## Frameworks & Libraries:
-> LÖVE, Pygame, Django
+> LÖVE 2D, Pygame, Django
 
 > ## Game Engines:
 > Godot, Unity
